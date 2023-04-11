@@ -1,3 +1,9 @@
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="../resources/logo/flat/transparent_grey.png">
+    <source media="(prefers-color-scheme: light)" srcset="../resources/logo/flat/transparent_black.png">
+    <img alt="Move Agency logo" src="../resources/logo/flat/transparent_black.png">
+</picture>
+
 ## The future is here, and it’s mobile first & beyond.
 
 Welcome to Move. Our mobile solutions make the lives of millions of users around the world easier and more beautiful every day.
