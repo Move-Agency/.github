@@ -4,8 +4,5 @@
     <img alt="Move Agency logo" src="https://github.com/Move-Agency/.github/blob/main/resources/logo/flat/transparent_black.png">
 </picture>
 
-## The future is here, and it’s mobile first & beyond.
-
-Welcome to Move. Our mobile solutions make the lives of millions of users around the world easier and more beautiful every day.
-
-If you are a developer and like our work, check out [https://www.moveagency.com/en/work-at-move](https://www.moveagency.com/en/work-at-move?vacancy-type=Development)
+## Welcome to Framna. We do everything it takes to create digital products that lead markets. Just that.
+If you are a developer and like our work, take a look at <https://framna.com/careers>
